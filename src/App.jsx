@@ -82,7 +82,8 @@ function App() {
           <Timeline />
           <br></br>
           <Contact />
-          <Footer />
+          <br></br>
+          {/* <Footer /> */}
         </div>
       </div>
     </>

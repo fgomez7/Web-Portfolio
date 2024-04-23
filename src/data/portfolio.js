@@ -8,7 +8,7 @@ export default [
 
     {
         title: 'Portfolio',
-        imgUrl: '/Web-Portfolio/assets/sekiro.jpg',
+        imgUrl: '/Web-Portfolio/assets/webImage.png',
         stack:['React', 'Tailwind', 'Vite'],
         link: "https://fgomez7.github.io/Web-Portfolio/",
     }, 

@@ -1,4 +1,5 @@
 import React from 'react';
+import Title from './Title';
 
 function Contact(){
     return (
@@ -9,11 +10,12 @@ function Contact(){
                     method = "POST"
                     className="flex flex-col w-full md:w-7/12"
                 >
+                    <Title>Contact</Title>
                     <input
                         type = "text"
                         name= "name"
                         placeholder = "Name"
-                        className="p-2 bg-transparent border-2 rounded-md focus-outline-none"
+                        className="p-2 bg-transparent border-2 rounded-md focus:outline-none"
                     />
                     <input
                         type = "text"
@@ -31,7 +33,7 @@ function Contact(){
                         type="button"
                         className="text-center inline-block px-8 py-3 w-max text-base font-medium rounded-md text-white bg-gradient-to-r from-blue-500 to-purple-500 drop-shadow-md hover:stroke-white"
                     >
-                    Worth with Me
+                    Contact Me
                     </button>
                 </form>
             </div>

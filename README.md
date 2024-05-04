@@ -11,3 +11,10 @@ Currently, two official plugins are available:
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+
+## How to Run
+nvm use v16.20.2    - use this version of node or higher to run 
+npm run dev         - for preview on browser
+npm run build       - to upload using github pages
+npm run dev         - ^

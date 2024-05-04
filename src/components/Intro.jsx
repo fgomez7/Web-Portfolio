@@ -19,10 +19,12 @@ function Intro(){
                     github repository
                 </a>{' '}
 
-                housing my skillsets, my projects, and my eager to continue learning and growing as a developer.
+                housing my skillsets, my projects, and my eagerness to continue learning and growing as a developer.
             </p>
         </div>
     )
 }
 
 export default Intro;
+
+// Jon Guerrera : If you have a clear idea of what industries or tech stacks you're interested in working with, feel free to include that. More specifically, instead of writing " I am enthusiastic about applying my skills and knowledge to tackle complex challenges in the field of software engineering.", replace software engineering with something more specific

@@ -15,6 +15,9 @@ Currently, two official plugins are available:
 
 ## How to Run
 nvm use v16.20.2    - use this version of node or higher to run 
+
 npm run dev         - for preview on browser
+
 npm run build       - to upload using github pages
+
 npm run dev         - ^
